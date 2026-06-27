@@ -1,0 +1,65 @@
+{
+  "ui": {
+    "main_menu": {
+      "title": "Broken Dreams Correctional Center",
+      "new_game": "New Game",
+      "load_game": "Load Game",
+      "settings": "Settings",
+      "credits": "Credits",
+      "exit": "Exit",
+      "resume": "Resume Game"
+    },
+    "settings": {
+      "title": "Settings",
+      "language": "Language",
+      "graphics": "Graphics",
+      "sound": "Sound",
+      "gameplay": "Gameplay",
+      "back": "Back",
+      "language_changed": "Language changed. Some elements may need to be reloaded."
+    },
+    "language_menu": {
+      "title": "Select Language",
+      "english": "English",
+      "russian": "Русский",
+      "description": "Choose your preferred language"
+    },
+    "buttons": {
+      "ok": "OK",
+      "cancel": "Cancel",
+      "yes": "Yes",
+      "no": "No",
+      "apply": "Apply",
+      "save": "Save",
+      "close": "Close",
+      "confirm": "Confirm"
+    },
+    "dialogs": {
+      "confirm_language_change": "Change language to {language}?",
+      "confirm_exit": "Are you sure you want to exit?",
+      "confirm_new_game": "Start a new game? Current progress will be lost."
+    }
+  },
+  "game": {
+    "messages": {
+      "welcome": "Welcome to BDCC",
+      "loading": "Loading...",
+      "saving": "Saving...",
+      "game_over": "Game Over",
+      "paused": "Game Paused"
+    },
+    "status": {
+      "health": "Health",
+      "stamina": "Stamina",
+      "hunger": "Hunger",
+      "sanity": "Sanity",
+      "energy": "Energy"
+    }
+  },
+  "errors": {
+    "load_failed": "Failed to load game",
+    "save_failed": "Failed to save game",
+    "file_not_found": "File not found",
+    "unknown_error": "An unknown error occurred"
+  }
+}
